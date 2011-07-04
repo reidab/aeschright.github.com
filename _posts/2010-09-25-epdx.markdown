@@ -1,0 +1,7 @@
+---
+layout: post
+title: ePDX
+status: current
+---
+
+ePDX is a community directory for the Portland tech industry. It's built on an open source platform called Citizenry.
