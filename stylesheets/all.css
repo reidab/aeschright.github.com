@@ -1,0 +1,46 @@
+body {
+  font: 1em/1.5em 'Lekton', sans-serif;
+  background: -webkit-gradient(linear, 0 0, 0 100%, from(#9CC), to(#696));
+  background: -moz-linear-gradient(top, #9CC, #696);
+}
+
+h1 {
+  font-size: 1.75em;
+  font-family: 'Tinos', serif;
+  margin: 1em;
+}
+
+a {
+  text-decoration: none;
+  background-color: #CF6;
+  color: black;
+}
+
+a:hover {
+  background-color: #ccc;
+}
+
+header {
+  margin: .5em;
+}
+
+nav a {
+  font-size: 1.25em;
+  margin: 0 .5em;
+}
+
+.content {
+  margin: 0 auto;
+  padding: 1em;
+  width: 800px;
+  text-align: center;
+  background-color: white;
+}
+
+div.feature a {
+  background-color: white;
+}
+
+footer {
+  margin: .5em;
+}
